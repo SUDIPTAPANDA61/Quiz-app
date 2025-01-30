@@ -1,5 +1,5 @@
-Deployment URL:-quiz-app-rho-teal.vercel.app
-quiz-jwhzk4lru-sudipta-pandas-projects.vercel.app
+#_Deployment Of My Quiz-app
+URL:-https://quiz-app-git-main-sudipta-pandas-projects.vercel.app/
 
 # Getting Started with Create React App
 
